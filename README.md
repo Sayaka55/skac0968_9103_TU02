@@ -4,7 +4,8 @@
 
 ### Content
 
-![Emerging Image](Test1/readmeImages/Emerging.jpg)
+![Red Image](/Users/sayakakachi/Desktop/IDEA9103 Creative Coding/Test/Week8/repositories/Untitled/readmeImages/RedImage.jpeg)
+
 
 
 
