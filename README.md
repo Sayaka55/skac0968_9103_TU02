@@ -6,10 +6,19 @@
 
 
 - Example 1 
+    *The Rock where People Gather*
 ![Emerging Image](readmeImages/Emerging.jpg)
+[Link to video](https://www.teamlab.art/w/iwa-waterparticles/)
 
 - Example 2 
+    *Light Vortex*
 ![Immersive Image](readmeImages/Immersive.jpg)
+[Link to video](https://www.teamlab.art/ew/lightvortex/)
+
+- Example 3 
+    *Continuous Enso*
+![Immersive Image](readmeImages/Circles.jpg)
+[Link to video](https://www.teamlab.art/ew/continuous_enso/)
 
 ## **Coding Technique**
 
@@ -17,12 +26,12 @@
 
 - Example 1 
 ![Colors Image](readmeImages/ParticlesColors.jpg)
-[Link Text](https://threejs.org/examples/#webgl_points_billboards)
+[Link](https://threejs.org/examples/#webgl_points_billboards)
 
 - Example 2
 ![Colors Image](readmeImages/InteractiveParticles.jpg)
-[Link Text](https://threejs.org/examples/#webgl_interactive_points)
+[Link](https://threejs.org/examples/#webgl_interactive_points)
 
 - Example 3
 ![Colors Image](readmeImages/Galaxy.jpg)
-[Link Text](https://threejs.org/examples/?q=gala#webgpu_tsl_galaxy)
+[Link](https://threejs.org/examples/?q=gala#webgpu_tsl_galaxy)
