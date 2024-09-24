@@ -4,9 +4,7 @@
 
 ### Content
 
-![Red Image](readmeImages/RedImage.jpeg)
-
-
+![Emerging Image](readmeImages/Emerging.jpg)
 
 
 
